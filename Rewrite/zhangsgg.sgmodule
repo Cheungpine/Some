@@ -1,0 +1,5 @@
+[Script]
+zhangshanggongjiao = type=http-response,pattern=https?:\/\/wx\.mygolbs\.com\/WxBusServer\/ApiData\.do, requires-body=1,max-size=0,script-path=https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Crack/zhangshanggongjiao.js
+
+[MITM]
+hostname=wx.mygolbs.com
