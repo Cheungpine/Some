@@ -4,4 +4,4 @@
 zhangshanggongjiao = type=http-response,pattern=https?:\/\/wx\.mygolbs\.com\/WxBusServer\/ApiData\.do, requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Pydebt/Cuttlefish/master/Crack/zhangshanggongjiao.js
 
 [MITM]
-hostname=wx.mygolbs.com
+hostname= %APPEND% wx.mygolbs.com
